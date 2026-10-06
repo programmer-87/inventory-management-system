@@ -1,0 +1,33 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Packages
+packages/
+*.nupkg
+
+# Setup
+InventoryAppSetup/Debug/
+InventoryAppSetup/Release/
+
+# Backup files
+*.bak
+*.log
+*.tmp
+
+# SQL Server
+*.mdf
+*.ldf
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
